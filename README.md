@@ -4,7 +4,7 @@
 
 https://thaneshgola.github.io/Weather/
 
-### Features of the project.
+### Features of the project:
 
 * It provides dynamic weather data like temp, min max temp, etc.
 * Dynamic background images change according to weather status.
