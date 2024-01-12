@@ -2,7 +2,7 @@
 
 ## I used open weather API to fetch data 
 
-link
+https://thaneshgola.github.io/Weather/
 
 ### Features of the project.
 
