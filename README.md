@@ -1,0 +1,30 @@
+# Weather Web App
+
+## I used open weather API to fetch data 
+
+link
+
+### Features of the project.
+
+* It provides dynamic weather data like temp, min max temp, etc.
+* Dynamic background images change according to weather status.
+* Dynamic weather icon changes according to weather status.
+* It provides basic information like feels like temperature, humidity, pressure, and wind speed.
+* It will not accept empty input.
+* It will give you  an alert if the city name does not match with API data.
+* a good  UX/UI 
+
+
+### Snapshot
+
+* Default 
+<img src="snapshots/demo1.png" width="100%">
+
+* When you entered any valid city
+ <img src="snapshots/demo.png" width="100%">
+
+* when you didn't entered anything 
+ <img src="snapshots/empty.png" width="100%">
+
+* when entered city didn't matched with data
+ <img src="snapshots/bad.png" width="100%">
